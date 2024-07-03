@@ -1,0 +1,2 @@
+### A custom from scratch implementation of GPT-2 (124M)
+- train_gpt2.py file is the custom implementation of the architecture of GPT-2 within a 100 lines after which it is copying the weights from the hugging-face GPT2 transformer. So this is not where we custom train our model we are just implementing a custom architecture and testing it by copying the tensors from the original GPT2.
